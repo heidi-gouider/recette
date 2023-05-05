@@ -1,0 +1,50 @@
+*{
+	font-family: 'Ubuntu', sans-serif;
+}
+body{
+	background-color: black;
+}
+header{
+	background-color: #C93E2E;
+	height: 250px;
+	display: flex;
+	justify-content: space-between;
+}
+.info{
+	text-align: center;
+}
+.main{
+	padding-right: 50px;
+	padding-left: 50px;
+}
+.titre{
+	padding-left: 150px;
+	padding-top: 75px;
+	color: #3e3b2d;
+}
+
+.produit{
+	display: flex;
+	justify-content: space-between;
+	justify-content: space-around;
+	
+}
+p{
+	color: #2c4b54;
+}
+.box1{
+	padding-top: 50px;
+}
+.box2{
+	padding-right: 100px;
+}
+
+ul{
+	color: #C93E2E;
+	line-height: 2.5;
+}
+.recette{
+	text-align: center;
+	color: #C93E2E;
+	line-height: 2;
+}
